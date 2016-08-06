@@ -73,6 +73,8 @@ Side Project的好处是你只需要对特定领域进行持续投入，就可�
 
 这里要向大家严重推荐[Asciidoc](http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/)，你可以把它看成一个增强版的Markdown，预置了非常多的常用格式，而且GitBook直接就支持这个格式（只要把.md 搞成 .adoc 就好），Atom也有实时预览插件。用了一段时间，非常喜欢。
 
+回头有空我会把使用Asciidoc写书的经验更新到《如何通过互联网出版一本小书》，可关注[我的微信公众号](http://get.ftqq.com/354.card)。
+
 > 微博的[@rambone](http://weibo.com/rambone)同学补充到，文章还可以发到微博、微信、简书等支持打赏的平台。
 
 ## 教学视频
